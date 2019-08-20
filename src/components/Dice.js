@@ -6,8 +6,7 @@ class Dice extends Component{
     return(
       <div>
         <h2>Click to Roll the Dice</h2>
-        <div id="diceDiv" onClick={roll}>{dice}
-        </div>
+        <img id="diceDiv" onClick={roll} src={dice} alt="dice"/>
       </div>
     )
   }

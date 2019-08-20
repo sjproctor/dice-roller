@@ -1,5 +1,8 @@
+* {
+  font-family: sans-serif;
+}
 #diceDiv{
-  border: 2px solid black;
-  height: 5em;
-  width: 5em;
+  /* border: 5px solid black; */
+  height: 10em;
+  width: 10em;
 }
