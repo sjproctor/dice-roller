@@ -1,5 +1,7 @@
 * {
-  font-family: sans-serif;
+  font-family: 'Fjalla One', sans-serif;
+  margin: 1em;
+  text-align: center;
 }
 #diceDiv{
   /* border: 5px solid black; */

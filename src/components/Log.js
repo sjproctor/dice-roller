@@ -4,7 +4,7 @@ class Log extends Component{
   render(){
     return(
       <div>
-        <h4>Previous Rolls:</h4>
+        <h3>Previous Rolls:</h3>
         <p>{this.props.log}</p>
       </div>
     )
